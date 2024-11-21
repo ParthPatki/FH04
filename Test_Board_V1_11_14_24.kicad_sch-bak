@@ -13870,7 +13870,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CM4IO:Raspberry-Pi-4-Compute-Module"
+		(property "Footprint" "SeniorDesign_CM4IO:Raspberry-Pi-4-Compute-Module"
 			(at 262.89 222.25 0)
 			(effects
 				(font
@@ -15153,7 +15153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "USB-A1HSW6:OST_USB-A1HSW6"
+		(property "Footprint" "SeniorDesign_USB-A1HSW6:OST_USB-A1HSW6"
 			(at 271.78 34.29 0)
 			(effects
 				(font
@@ -15964,7 +15964,7 @@
 				)
 			)
 		)
-		(property "Footprint" "10082378-11100TLF:AMPHENOL_10082378-11100TLF"
+		(property "Footprint" "SeniorDesign_PCIEConnector:AMPHENOL_10082378-11100TLF"
 			(at 367.03 187.96 0)
 			(effects
 				(font
@@ -16257,7 +16257,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "USB-A1HSW6:OST_USB-A1HSW6"
+		(property "Footprint" "SeniorDesign_USB-A1HSW6:OST_USB-A1HSW6"
 			(at 271.78 49.53 0)
 			(effects
 				(font
@@ -16653,7 +16653,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CM4IO:Raspberry-Pi-4-Compute-Module"
+		(property "Footprint" "SeniorDesign_CM4IO:Raspberry-Pi-4-Compute-Module"
 			(at 304.8 218.44 0)
 			(effects
 				(font
@@ -17598,7 +17598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FE1.1S:FE1.1S_SSOP-28"
+		(property "Footprint" "SeniorDesign_USB_BUS_FE1.1S:FE1.1S_SSOP-28"
 			(at 184.15 59.69 0)
 			(effects
 				(font
@@ -18905,7 +18905,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "USB-A1HSW6:OST_USB-A1HSW6"
+		(property "Footprint" "SeniorDesign_USB-A1HSW6:OST_USB-A1HSW6"
 			(at 271.78 64.77 0)
 			(effects
 				(font

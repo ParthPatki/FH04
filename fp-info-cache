@@ -1,4 +1,4 @@
-24222211130228924
+24230870501153177
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90005,6 +90005,13 @@ M.2-KEY-BLANK
 0
 76
 76
+SeniorDesign_PCIEConnector
+AMPHENOL_10082378-11100TLF
+
+
+0
+36
+36
 SeniorDesign_Pi_2_Board_F
 DF40HC30100DS04V58
 DF40HC(3.0)-100DS-0.4V(58-1
@@ -90012,6 +90019,20 @@ Connector
 0
 100
 100
+SeniorDesign_Qwiic_Connector
+CONN4_BM04B-SRSS_JST
+
+BM04B-SRSS-TB 
+0
+6
+6
+SeniorDesign_Qwiic_Flat
+CONN_SM04B-SRSS-TB_JST
+
+SM04B-SRSS-TB 
+0
+6
+6
 SeniorDesign_USB-A1HSW6
 OST_USB-A1HSW6
 
@@ -90019,6 +90040,20 @@ OST_USB-A1HSW6
 0
 4
 4
+SeniorDesign_USB_BUS_FE1.1S
+FE1.1S_SSOP-28
+
+
+0
+28
+28
+SeniorDesign_USB_Micro
+USB307530A
+USB3075-30-A-4
+Connector
+0
+11
+11
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
